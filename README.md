@@ -1,7 +1,7 @@
 # Gestion de Actividades Curriculares
 
 Instituto Tecnológico de Costa Rica.<br />
-I Proyecto de EStructuras de Datos, segundo semetre, 2021.<br />
+I Proyecto de Estructuras de Datos, segundo semetre, 2021.<br />
 Samantha Acuña Montero, Katherine Amador González, Jose Serrano Quesada.<br />
 
 ## Objetivos<br />
